@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-theme = "ghostwritter"
+theme = "ananke"
 title = "My New Hugo Site"
 
 [menu]

@@ -1,3 +1,6 @@
 [submodule "themes/ghostwritter"]
 	path = themes/ghostwritter
 	url = https://github.com/jbub/ghostwriter.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
